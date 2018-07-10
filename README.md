@@ -15,7 +15,7 @@ This event Center is donated by StarSpace46. If you like them and want them to s
 
 (Add your own event space here?)
 
-# ThunderPlains 2018
+# (ThunderPlains 2018)
 
 The ThunderPlains Developer Conference is coming up on November 1st. The CFP is OPEN. Please submit your talks at [thunderplainsconf.com](https://2018.thunderplainsconf.com). ThunderPlains is also looking for sponsors.
 
