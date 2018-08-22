@@ -10,6 +10,9 @@ Techlahoma is a non-profit volunteer-run organization that puts on 32 groups, 2 
 ### (ThunderPlains)
 The ThunderPlains Developer Conference is coming up on November 1st and is looking for sponsors.
 
+### (Help Wanted Board)
+If you'd like to get more involved with Techlahoma, go to help-wanted.techlahoma.org to find ways that you can volunteer.
+
 ### (Twitch: Read only if your group is streamed on Twitch)
 We've been streaming almost all of our OKC based user groups to twitch.tv/techlahoma. If you have Amazon Prime, you can subscribe to our channel for free every month. Techlahoma gets a small donation from Amazon for each subscription!
 
