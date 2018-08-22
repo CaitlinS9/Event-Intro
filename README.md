@@ -13,16 +13,9 @@ This event Center is donated by StarSpace46. If you like them and want them to s
 # (36 Degrees North: Read if at 36 Degrees North only )
 36 Degrees North donates this space for us to meet. They also offer free workshops as well as coworking, desks and offices for a monthly fee. You can find more info at the front desk. 
 
-(Add your own event space here?)
-
 # (ThunderPlains 2018)
 
 The ThunderPlains Developer Conference is coming up on November 1st and is looking for sponsors.
-
-# (Donate!)
-(Please open this link and show it on the screen <https://donate.techlahoma.org/membership>)
-
-If you like this meetup and what we do here, please consider becoming a Techlahoma member by visiting techlahoma.org and clicking on the donate button.  The funding allows Techlahoma to help usergroups like this around the state, and put on 2 great conferences. Thank you.
 
 # (Twitch)
 (Read only if your group streamed on Twitch)
