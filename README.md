@@ -10,8 +10,8 @@ Techlahoma is a non-profit volunteer-run organization that puts on 32 groups, 2 
 ### (ThunderPlains)
 The ThunderPlains Developer Conference is coming up on November 1st and is looking for sponsors.
 
-### (Twitch: Read only if your group streamed on Twitch)
-This usergroup is streamed on Twitch.tv. We've been streaming almost all of our OKC based usergroups in Twitch.tv/techlahoma - Be sure to check it out & if you have Amazon Prime you can subscribe to our channel. If you subscribe to our channel, Techlahoma gets a small donation from Amazon!
+### (Twitch: Read only if your group is streamed on Twitch)
+We've been streaming almost all of our OKC based user groups to twitch.tv/techlahoma. If you have Amazon Prime, you can subscribe to our channel for free every month. Techlahoma gets a small donation from Amazon for each subscription!
 
 ### (StarSpace46: Read if at StarSpace46 only)
 This event Center is donated by StarSpace46. If you like them and want them to stick around, get a $40/month community membership.
