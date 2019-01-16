@@ -5,7 +5,7 @@
 Thank you for joining us today. We are here thanks to Techlahoma, our volunteers, and our speakers.
 
 ### (Techlahoma)
-Techlahoma is a non-profit volunteer-run organization that puts on 32 groups, 2 conferences, and sponsors free local events. We do all this to support our mission to advance the grassroots tech community of Oklahoma. Learn more at techlahoma.org
+Techlahoma is a non-profit volunteer-run organization that puts on 40 groups, 2 conferences, and sponsors free local events. We do all this to support our mission to advance the grassroots tech community of Oklahoma. Learn more at techlahoma.org
 
 ### (Code of Conduct)
 It's extremely important to us that our members feel safe and respected at our events. If you have an issue with someone's behaviour at a Techlahoma Foundation event, please let us know via the Incident Report form or one of the other methods provided on our website so we can take action immediately.
