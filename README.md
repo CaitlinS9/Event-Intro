@@ -13,6 +13,9 @@ It's extremely important to us that our members feel safe and respected at our e
 ### (Help Wanted Board)
 If you'd like to get more involved with Techlahoma, go to help-wanted.techlahoma.org to find ways that you can volunteer.
 
+### (Donations)
+If you want to support Techlahoma, you can go to techlahoma.org/donate and sign up for a monthly subscription.
+
 ### (Twitch: Read only if your group is streamed on Twitch)
 We've been streaming almost all of our OKC based user groups to twitch.tv/techlahoma. If you have Amazon Prime, you can subscribe to our channel for free every month. Techlahoma gets a small donation from Amazon for each subscription!
 
