@@ -17,7 +17,7 @@ If you'd like to get more involved with Techlahoma, go to help-wanted.techlahoma
 If you want to support Techlahoma, you can go to techlahoma.org/donate and sign up for a monthly subscription.
 
 ### (Twitch: Read only if your group is streamed on Twitch)
-We've been streaming almost all of our OKC based user groups to twitch.tv/techlahoma. If you have Amazon Prime, you can subscribe to our channel for free every month. Techlahoma gets a small donation from Amazon for each subscription!
+We've been streaming almost all of our OKC based user groups to twitch.tv/techlahoma. If you have Amazon Prime, you can subscribe to our channel for free every month. Techlahoma gets a small donation from Amazon for each subscription! The videos are also available on our YouTube channel, and we'd love for everyone to subscribe!
 
 ### (StarSpace46: Read if at StarSpace46 only)
 This event center is donated by StarSpace46. They offer a free day pass to anyone who wants to come upstairs after the meetup.
