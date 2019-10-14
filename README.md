@@ -25,5 +25,8 @@ This event center is donated by StarSpace46. They offer a free day pass to anyon
 ### (36 Degrees North: Read if at 36 Degrees North only)
 36 Degrees North donates this space for us to meet. They also offer free workshops as well as coworking, desks and offices for a monthly fee. You can find more info at the front desk. 
 
+### (Ctrl+Shift - OKC only)
+Ctrl+Shift is a code school for survivors of interpersonal violence and abuse in Oklahoma City. They're looking for people to volunteer as guest speakers, technical or teaching assistants, and mentors. If you're interested, join our #ctrl-shift-school Slack channel for more information and the spreadsheet to sign up!
+
 ### (Food Sponsor: Read if relevant)
 And Finally thank you to our food sponsor *(Insert food sponsor name here)*
